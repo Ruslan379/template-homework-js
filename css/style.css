@@ -6,9 +6,10 @@ body {
 
 .title-main {
     text-align: center;
+    line-height: 4em;
     color: darkred;
 }
 
-/* .list {
-
-} */
+.list {
+    margin-left: 4em;;
+}

@@ -1,7 +1,12 @@
 /*! Додайте стилізацію ваших єлементів тут */
 
 body {
-    background-color: bisque;
+    background-color: #fffbda;
+}
+
+.title-main {
+    text-align: center;
+    color: darkred;
 }
 
 /* .list {

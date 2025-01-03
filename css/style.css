@@ -4,6 +4,12 @@ body {
     background-color: #fffbda;
 }
 
+.title {
+    text-align: center;
+    line-height: 4em;
+    color: #003f00;
+}
+
 .title-main {
     text-align: center;
     line-height: 4em;
